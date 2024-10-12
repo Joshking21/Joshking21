@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Joshking21
-- 👀 I’m interested in Front-end development 
-- 🌱 I’m currently learning Javascript Frameworks
+- 👀 I’m a Frontend Developer 
+- 🌱 I’m currently learning JavaScript Frameworks and Libraries like React and Node
 - 💞️ I’m looking to collaborate on any Front-end projects 
-- 📫 How to reach me @Joshking21
+- 📫 How to reach me @Joshking21 on twitter
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm actually 19 years old and I study at the federal university of technology owerri. 
 
